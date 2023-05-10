@@ -7,4 +7,4 @@ The imaginary company, Rockbuster Stealth LLC, is planning to launch an online v
 # Project Files
 The data used in the project can be found [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
-The final presentation can be found [here](https://docs.google.com/presentation/d/1fkUjONJGq6KX-BWR1J3r4ap21lBpqsajlFbExt7ugA0/edit?usp=sharing)
+All visualizations can be found on [Tableau](https://public.tableau.com/app/profile/kaitlin.kendrick)
